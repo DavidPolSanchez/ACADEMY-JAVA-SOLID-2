@@ -8,8 +8,6 @@ public class ConfortCar extends Car implements accelerate {
         injectNitro();
     }
 
-    // mal uso, seguir agregando funcionalidades concretas:
-
     private void injectNitro() {
         // do..
     }

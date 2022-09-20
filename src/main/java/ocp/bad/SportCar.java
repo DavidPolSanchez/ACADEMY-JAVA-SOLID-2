@@ -8,8 +8,6 @@ public class SportCar extends Car implements accelerate {
         startConfort();
     }
 
-    // mal uso, seguir agregando funcionalidades concretas:
-
     private void startConfort() {
         // do..
     }
