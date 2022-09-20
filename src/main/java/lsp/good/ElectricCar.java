@@ -1,20 +1,18 @@
+
 package lsp.bad;
 
 public class ElectricCar implements Vehicle{
 
     private int battery;
 
-
     @Override
     public void accelerate() {
-        if(hasBattery()){
-            System.out.println("accelerating the car");
-        }
+        System.out.println("accelerating the car");
     }
 
     @Override
     public void stop() {
-        System.out.println("stopping the car");
+        System.out.println("accelerating the car");
     }
 
     public boolean hasBattery() {
