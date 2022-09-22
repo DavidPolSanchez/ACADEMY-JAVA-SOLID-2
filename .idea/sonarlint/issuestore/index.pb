@@ -1,0 +1,29 @@
+
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+O
+src/main/java/srp/bad/User.java,2/2/229abe6c6a8abf103bc7b5cd0180d0724c675233
+T
+$src/main/java/srp/bad/UserLogin.java,4/e/4ef897e97f47a055fa5c25063ace699b5242b87c
+Q
+!src/main/java/srp/good/Email.java,0/a/0a3ea321f43b99afa096f7b9f31b3a99b03b5b86
+U
+%src/main/java/srp/good/UserLogin.java,0/2/02f4c4415b3cfdc23a21826242b999dae2b754c6
+V
+&src/main/java/ocp/good/ConfortCar.java,a/d/ad85fc334276451870db6d7296cd1ab96a9a7f64
+O
+src/main/java/ocp/good/Car.java,4/e/4e06c2974e4da29a605178077bb03be4f787fa67
+V
+&src/main/java/ocp/good/accelerate.java,6/b/6b20613233040e2a61d125b62e71bf8e510bf4b4
+T
+$src/main/java/ocp/good/SportCar.java,c/9/c9e3c6d54b1c4a312dff094e7e5305f09ccef7f4
+X
+(src/main/java/lsp/bad/CombustionCar.java,7/2/72fee473454767b70c71818d4edf935cd9ca3741
+V
+&src/main/java/lsp/bad/ElectricCar.java,0/d/0d07630e8e37e0de397c220fb03c1a71b23dce8a
+R
+"src/main/java/lsp/bad/Vehicle.java,7/3/736ba4448058281514214542b9fbb0fded911842
+O
+src/main/java/lsp/bad/Main.java,4/a/4ad644c31b670041b874fcaa8dc550cde95d8522
+Y
+)src/main/java/lsp/good/CombustionCar.java,e/4/e4977d010da78b2f1b80bb5e6a805f53d7455430
