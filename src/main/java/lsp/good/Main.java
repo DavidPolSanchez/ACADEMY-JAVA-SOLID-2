@@ -11,6 +11,14 @@ public class Main {
         Vehicle electric = new ElectricCar();
         combusion.accelerate();
         electric.accelerate();
+
+
+        switch (cartype){
+            case "car"  ->{
+                car=new CombustionCar();
+                car.accelerate();
+            }
+        }
         
 
     }

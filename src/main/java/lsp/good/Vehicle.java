@@ -1,6 +1,6 @@
 package lsp.bad;
 
-public interface Vehicle {
+public sealed class Vehicle  permits ElectricCar,CombustionCar{
 
     void accelerate();
 

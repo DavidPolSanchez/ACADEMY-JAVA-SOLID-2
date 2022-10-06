@@ -1,7 +1,7 @@
 
 package lsp.bad;
 
-public class ElectricCar implements Vehicle{
+public class ElectricCar extends Vehicle{
 
     private int battery;
 

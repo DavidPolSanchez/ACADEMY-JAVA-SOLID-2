@@ -1,6 +1,6 @@
 package lsp.bad;
 
-public class CombustionCar implements Vehicle{
+public class CombustionCar extends Vehicle{
 
     @Override
     public void accelerate() {
